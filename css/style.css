@@ -1,13 +1,19 @@
-.myFirstDiv{
-   color: rgba(255, 255, 255, 0.5);
-   padding: 5;
-   margin: 5;
+.myFistDiv{
+   color: rgba(248, 9, 9, 0.5);
+   padding: 15px 20px 250px 550px;
+   margin: 15px 20px 25px 10px;
    border: 2px dotted rgb(18, 78, 28);
+   background-image: url(/images/bilde2.png);
 }
 .mySecondDiv{
    color: rgba(225, 22, 22, 0.733);
-   padding: 5;
-   margin: 5;
+   padding: 5px;
+   margin: 5px;
    border: 2px dotted rgba(108, 35, 167, 0.596);
    background-color: aqua;
+}
+.div3{
+   display: flex;
+   justify-content: center;
+   text-align: center;
 }
