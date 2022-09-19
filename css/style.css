@@ -5,3 +5,9 @@
    margin: 5;
    border: 2px dotted rgb(18, 78, 28);
 }
+.mySecondDiv{
+   color: rgba(225, 22, 22, 0.733);
+   padding: 5;
+   margin: 5;
+   border: 2px dotted rgba(108, 35, 167, 0.596);
+}
