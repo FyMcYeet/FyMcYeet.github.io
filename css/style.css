@@ -129,11 +129,11 @@ html, body{
 }
 
 #utbody{
-    
+    flex
 }
 
 .logo{
-    position: static;
+    position:;
     top: 120px;
 }
 
